@@ -10,7 +10,7 @@ function Root() {
     <div>
       <nav className={`container ${styles.nav}`}>
         <Link to="/">
-          <h1>Movie Search</h1>
+          <h1>Swaraj's Movie Search</h1>
         </Link>
       </nav>
 
